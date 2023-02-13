@@ -109,8 +109,10 @@ footer a {
 }
 .boy {
     display: block;
-    height: 200px;
-    margin-top: 50px;
+    height: 300px;
+    margin-top: 10px;
+    z-index: 1;
+    
 }
 
 .start-project-card {
